@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Aspring MLE<br><br>Follow me on my journey building projects that are meaningful... or just because I think it's fun!</p>
+<p align="left">Aspring employee<br><br>Follow me on my journey to become uncooked!</p>
 
 ###
 
