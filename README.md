@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Aspring employee<br><br>Follow me on my journey to become uncooked!</p>
+<p align="left">Aspring employee<br><br></p>
 
 ###
 
